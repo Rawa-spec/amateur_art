@@ -1,0 +1,8 @@
+First name:
+(optional)middle name:
+Last name:
+email:
+mobile number:
+What days are you avaialbe to come into class?:
+
+Thank you for filling in our form! Our team will be in contact with you soon!
