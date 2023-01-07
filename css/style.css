@@ -4,4 +4,23 @@ body {
        background-image: url(https://www.superprof.co.uk/blog/wp-content/uploads/2019/05/history-of-painting.jpg);
        background-size: cover;
     }
+h1{
+    font-style: italic;
+    text-align: justify;
 
+}
+footer > p {
+    width: 100%;
+    clear: both;
+    image-rendering: optimizeQuality;
+}
+.social_media {
+    height: 80px;
+	width: 80px;
+	background: rgb(229, 93, 9);
+	display: inline-block;
+}
+
+article {
+    background-color: darkolivegreen;
+}

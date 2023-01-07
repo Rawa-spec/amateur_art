@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-   
-    <title>Amateur Art</title>
-</head>
-<body class="colour">
-    <article>
-        <h1>Welcome to to our art club!</h1>
+Welcome to to our art club!
 
 We provide classes for art beginners, making us your perfect new adult hobby!
 
@@ -32,10 +20,12 @@ landscape painting - is natural scenery captured in a painting
 still life painting - observes domestic objects in their natural state
 
 Our art teachers provide our classes with amateur art handbooks and tips on how to improve on your painting techniques!
-    </article>
-    <footer> 
-        <p> <a href="https://en-gb.facebook.com" target="_blank"><img class="social_media" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook logo"/>
-            <a href="https://twitter.com/?lang=en" target="_blank"><img class="social_media" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter logo"/><a </p>
-    </footer>
-</body>
-</html>
+
+Do you have any questions about our services:
+fill in your details below:
+name: email: type in your question:
+
+
+
+
+
