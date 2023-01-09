@@ -1,3 +1,11 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 body {
         width:100%;
         background-color: rgba(74, 135, 233, 0.301);
@@ -9,18 +17,82 @@ h1{
     text-align: justify;
 
 }
-footer > p {
-    width: 100%;
-    clear: both;
-    image-rendering: optimizeQuality;
-}
 .social_media {
     height: 80px;
 	width: 80px;
-	background: rgb(229, 93, 9);
 	display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 article {
     background-color: darkolivegreen;
 }
+
+header{
+    flex-direction: row;
+    background-color: white;
+    justify-content: space-around;
+}
+
+.logo{
+    text-align: center;
+    padding: 30px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+li {
+    margin: 50px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+.section-1 {
+    min-height: 100vh;
+    padding: 10px;
+    background-image: url(https://www.superprof.co.uk/blog/wp-content/uploads/2019/05/history-of-painting.jpg);
+}
+
+.section-1 h1 {
+    font-size: 30px;
+}
+
+.section-1 .white-box {
+    background-color: white;
+    padding: 40px;
+}
+
+.section-1 .image {
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+footer{
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+
