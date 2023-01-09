@@ -68,12 +68,16 @@ The registration form includes a submit button to send their information to us.
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 - Screen compatibility 
     - I have checked that the screen compatibility using the website, 'AM I RESPONSIVE?' [website](https://ui.dev/amiresponsive?url=https://8000-rawaspec-amateurart-n1twbn3zboq.ws-eu81.gitpod.io/home.html).
+- Performance
+    - The site performace was tested on lighthouse and received a score of 84.[website](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Frawa-spec.github.io%2Famateur_art%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext). 
 
 
 ### Encountered Bugs (Fixed/Resolved)
 There was a struggle with opening the broswer, as it showed error response multiple times. However, after some time, I discovered the issue was that was with my file naming that interfered with file path to open the browser.
 
+## Deployment procedure
 
+The application is deployed by configuring github to use the main branch for a github pages site.
 
 
 ## Credits
