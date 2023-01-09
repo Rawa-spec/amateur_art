@@ -87,6 +87,12 @@ li a:hover {
     display: block;
 }
 
+.section-1 .about-image {
+    height: 400px;
+    width: 600px;
+
+}
+
 footer{
     padding: 10px;
     background-color: white;
