@@ -93,6 +93,13 @@ li a:hover {
 
 }
 
+
+.section-1 .contact-image {
+    height: 200px;
+    width: 200px;
+
+}
+
 footer{
     padding: 10px;
     background-color: white;
