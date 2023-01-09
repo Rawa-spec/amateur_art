@@ -3,7 +3,7 @@ Welcome to my website amateur art!
 It is an adult art club that features multiple sessions with art teachers!
 It is a complemetary service to provide enjoyment and spark an inspiration in making art a hobby!
 
-![Responsice Mockup](assets/1amateurart.png)
+![Responsice Mockup](assets/amateurartresp.png)
 
 ## Features
 
@@ -19,10 +19,10 @@ The footer section contains links to facebook and twitter. The purpose of this f
 Each main section on every page includes a background image to match the tastes of the artful business. 
 
 ### Home Page
+![Responsice Mockup](assets/1amateurart.png)
 
 The homepage features text to welcome the user to the website. It also features a photograph to give the user an idea of a sample art class. Below the photograph, I have included a detailed description on the art class to describe the environment it fosters.
 
-![Responsice Mockup](assets/1amateurart.png)
 
 ### Contacts Page
 
