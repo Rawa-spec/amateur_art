@@ -70,6 +70,7 @@ The registration form includes a submit button to send their information to us.
     - I have checked that the screen compatibility using the website, 'AM I RESPONSIVE?' [website](https://ui.dev/amiresponsive?url=https://8000-rawaspec-amateurart-n1twbn3zboq.ws-eu81.gitpod.io/home.html).
 - Performance
     - The site performace was tested on lighthouse and received a score of 84.[website](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Frawa-spec.github.io%2Famateur_art%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext). 
+    ![Performance on lighthouse](assets/performance.png)
 
 
 ### Encountered Bugs (Fixed/Resolved)
