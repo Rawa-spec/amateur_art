@@ -107,5 +107,30 @@ footer{
     justify-content: center;
 }
 
+button {
+    display: block;
+    padding: 20px;
+}
+
+@media (max-width:481px) {
+
+    .section-1 .image {
+        height: 200px;
+        width: 150px;
+    }
+    
+    .section-1 .about-image {
+        height: 150px;
+        width: 300px;
+    
+    }
+    
+    
+    .section-1 .contact-image {
+        height: 150px;
+        width: 150px;
+    
+    }
+}
 
 
