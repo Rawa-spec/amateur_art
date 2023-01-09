@@ -28,23 +28,34 @@
     <main>
 
         <article  class="section-1">
-            <form  class=" white-box">
+            <form  method="post" action="https://formdump.codeinstitute.net/"  class=" white-box">
 
                 <h1>Register</h1>
 
-                <input method="post" action="https://formdump.codeinstitute.net/" >
-                <label for="first_name">First Name:</label><br>
-                <textarea placeholder="Your First Name" id="first_name" name="first_name" value="first_name" cols="50" rows="10"></textarea> <br>
-                
-                <input method="post" action="https://formdump.codeinstitute.net/" >
-                <label for="last_name">Last Name:</label><br>
-                <textarea placeholder="Your Last Name" id="last_name" name="last_name" value="last_name" cols="50" rows="10"></textarea> <br>
-                
-                <input type="email" method="post" action="https://formdump.codeinstitute.net/" >
-                <label for="email">Email:</label><br>
-                <textarea placeholder="Email" id="email" name="email" value="email" cols="50" rows="10"></textarea> <br>
-            
+                <label for="first_name">First Name:</label>
+                <br>
+                <input placeholder="first name" type="text"  id="first_name" name="first_name"   >
+                <br>
+                <label for="last_name">Last Name:</label>
+                <br>
+                <input placeholder="last name" type="text"  id="last_name" name="last_name">
+                <br>
+                <label for="email">Email:</label>
+                <br>
+                <input type="email" name="email" id="email" placeholder="your@email.com" >
+                <br>
+                <label for="number">Number:</label>
+                <br>
+                <input type="text" name="number" id="number" placeholder="number" >
+
+                <br>
+                <label for="days">What days are you available to come into class?:</label>
+                <br>
+                <textarea name="days" id="days" placeholder="What days are you available to come into class?"> </textarea>
+                <br>
     Thank you for filling in our form! Our team will be in contact with you soon!
+    <button type="submit" class="button">SUBMIT</button>
+    </form>
         </article>
     </main>
     <!-- FOOTER-->
